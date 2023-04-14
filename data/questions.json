@@ -1,0 +1,2965 @@
+[{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615060"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The interim government in Germany between WWI and the rise of the Nazi party was known as",
+  "options": [
+    "The Weimar Republic",
+    "The Second Reich",
+    "The Kaiser",
+    "The Directory"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615061"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The Aunchluss, or Union, occured in 1938 between two countries?",
+  "options": [
+    "The Soviet Union and Finland",
+    "Germany and Czechloslovakia",
+    "Germany and Austria",
+    "Germany and Japan"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615062"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "Von Ribbentrop signed the Non-Aggression pact in 1939 between",
+  "options": [
+    "Germany and Italy",
+    "Germany and the Soviet Union",
+    "Germany and Japan",
+    "Austria and Hungary"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615063"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "At the beginning of the war in the Pacific theatre a contingent of U.S. troops under General MacArthur was forced to surrender at",
+  "options": [
+    "Wake Island",
+    "Burma",
+    "Pearl Harbor",
+    "Bataan"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615064"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "During the Battle of France the Germans bypassed the Maginot Line by attacking through",
+  "options": [
+    "Norway",
+    "Belgium",
+    "Switzerland",
+    "Italy"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615065"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The main battle rifle of the German Army during the war was known as",
+  "options": [
+    "The K98",
+    "The M1 Garand",
+    "The Lebel",
+    "The Mosin-Nagant"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615066"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "What fighter plane from WWII has become the most produced fighter in history?",
+  "options": [
+    "The Spitfire",
+    "The P-51 Mustang",
+    "The Messerschmidt 109",
+    "The Mitsubishi Zero"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615067"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The German submarine that attempted to strangle the supply lines to Britain was called the",
+  "options": [
+    "Midget Sub",
+    "Seigelflugen",
+    "N-47s",
+    "Unterseebooten"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615068"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The Japanese Zero was superior to American fighter aircraft at the beginning of the war in the Pacific",
+  "options": [
+    "True",
+    "False"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615069"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "Operation Barbarossa was",
+  "options": [
+    "The Plans for the Invasion of England",
+    "The German invasion of the Soviet Union",
+    "The Battle of the Bulge",
+    "The German rescue of Benito Mussolini"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f561506a"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The prime minister of England prior to Winston Churchill was",
+  "options": [
+    "Chamberlain",
+    "Atley",
+    "Thatcher",
+    "Dowding"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f561506b"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The purpose of the Potsdam Conference was to",
+  "options": [
+    "Establish the policy of unconditional surrender",
+    "Plan the Arctic convoys to the Soviet Union",
+    "Shape post-war Germany",
+    "Attempt to bring the war to a peaceful compromise"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f561506c"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The battle of Leyte Gulf was a naval engagement during this larger battle",
+  "options": [
+    "Guadacanal",
+    "Iwo Jima",
+    "Okinawa",
+    "Midway"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f561506d"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "Italy switched sides during the war",
+  "options": [
+    "True",
+    "False"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f561506e"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The most famous Soviet commander was",
+  "options": [
+    "Khruschev",
+    "Voronov",
+    "Kalashnikov",
+    "Zhukov"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f561506f"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The most famous German gun of the war was the",
+  "options": [
+    "Flak30 20mm",
+    "75mm L70",
+    "Flak36 88mm",
+    "Pak 36 37mm \"Doorknocker\""
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615070"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "This man was a member of The Red Baron's fighter squadron and commander of the Luftwaffe during WWII.",
+  "options": [
+    "Von Richtofen",
+    "Hermann Goering",
+    "Reinhard Heydrich",
+    "Erwin Rommel"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615071"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The most famous British general of the war was",
+  "options": [
+    "Dowding",
+    "Patton",
+    "Montgomery",
+    "Alexander"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615072"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The Supreme Commander of the Western Allied forces was",
+  "options": [
+    "Churchill",
+    "Roosevelt",
+    "Bradley",
+    "Eisenhower"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615073"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "Monte Cassino was",
+  "options": [
+    "An Italian General",
+    "An abbey in France",
+    "A former monastery in Italy",
+    "A German recreation town"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615074"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The main battle tank of the Soviet Union at the time was the",
+  "options": [
+    "Sevastapool",
+    "T-54",
+    "Stalin",
+    "T-34"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615075"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "Jet fighters never flew in operational combat during World War II",
+  "options": [
+    "True",
+    "False"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615076"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "What was sister-ship of the German Bismarck battleship?",
+  "options": [
+    "Tirpitz",
+    "Scharnhorst",
+    "Prince Oigen",
+    "Graf Spee"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615077"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The premiere divebombing aeroplane of 1940 was known as",
+  "options": [
+    "British Blackburn",
+    "American Corsair",
+    "Germans JU-87 \"Stuka\"",
+    "Soviet IL-2 Sturmovick"
+  ]
+},{
+  "_id": {
+    "$oid": "6408171b45fc9c15f5615078"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 12:02:01",
+  "question": "The landings at Anzio were during this campaign",
+  "options": [
+    "Guadacanal",
+    "Sicily",
+    "France",
+    "Italy"
+  ]
+},{
+  "_id": {
+    "$oid": "64082fd145fc9c15f561507c"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 13:48:13",
+  "question": "The main reason for world war first?\n ",
+  "options": [
+    "Murder of Berlin",
+    "Murder of Austria's heir in Sarajevo",
+    "Territorial rivalry",
+    "Religion spreading"
+  ]
+},{
+  "_id": {
+    "$oid": "64082fd145fc9c15f561507d"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 13:48:13",
+  "question": "This is not a cause of WWI.\n ",
+  "options": [
+    "Nationalism",
+    "Balkan war",
+    "Hundred Year war",
+    "Franco-Prussian war"
+  ]
+},{
+  "_id": {
+    "$oid": "64082fd145fc9c15f561507e"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 13:48:13",
+  "question": "Select the countries that were not in the Triple Entente in the year 1914.\n ",
+  "options": [
+    "USA",
+    "Russia",
+    "Italy",
+    "Belgium"
+  ]
+},{
+  "_id": {
+    "$oid": "64082fd145fc9c15f561507f"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 13:48:13",
+  "question": "Which of these was not a major battle of WWI?\n",
+  "options": [
+    "Battle of Gallipoli",
+    "Battle of the Marne",
+    "Battle of Antietam",
+    "Battle of the Somme"
+  ]
+},{
+  "_id": {
+    "$oid": "64082fd145fc9c15f5615080"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 13:48:13",
+  "question": "The battle of Verdun started in",
+  "options": [
+    "1914",
+    "1915",
+    "1916",
+    "1920"
+  ]
+},{
+  "_id": {
+    "$oid": "64082fd145fc9c15f5615081"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 13:48:13",
+  "question": "Manoeuvre warfare is\n",
+  "options": [
+    "It's a type of strategy to defeat the enemy by careful movements and manipulation.",
+    "Name of a country",
+    "A flag name",
+    "A special squad"
+  ]
+},{
+  "_id": {
+    "$oid": "64082fd145fc9c15f5615082"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 13:48:13",
+  "question": "Attrition warfare took place during which years?\n",
+  "options": [
+    "Between 1914-1917",
+    "Between 1915-1917",
+    "Between 1917-1918",
+    "Between 1918-1920"
+  ]
+},{
+  "_id": {
+    "$oid": "64082fd145fc9c15f5615083"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 13:48:13",
+  "question": "The country that made the first declaration of war was\n",
+  "options": [
+    "India",
+    "Austria-Hungary",
+    "Italy",
+    "Britain"
+  ]
+},{
+  "_id": {
+    "$oid": "64082fd145fc9c15f5615084"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 13:48:13",
+  "question": "The German attack that provoked Britain to go to war was \n",
+  "options": [
+    "The attack on France",
+    "The attack on Luxembourg",
+    "The attack on Belgium",
+    "The attack on the USA"
+  ]
+},{
+  "_id": {
+    "$oid": "64082fd145fc9c15f5615085"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 13:48:13",
+  "question": "_______ joined the war, taking the side of the Allied Powers in 1916.\n",
+  "options": [
+    "Romania",
+    "Serbia",
+    "Greece",
+    "USA"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f561508a"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "In which year did World War I begin?\n",
+  "options": [
+    "1923",
+    "1938",
+    "1917",
+    "1914"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f561508b"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "In which country was Adolf Hitler born?\n",
+  "options": [
+    "France",
+    "Germany",
+    "Austria",
+    "Hungary"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f561508c"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "Where was John F. Kennedy assassinated?\n",
+  "options": [
+    "New York",
+    "Austin",
+    "Dallas",
+    "Miami"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f561508d"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "Who fought in the war of 1812?\n",
+  "options": [
+    "Andrew Jackson",
+    "Arthur Wellesley",
+    "Otto von Bismarck",
+    "Napoleon"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f561508e"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "Which general famously stated, 'I shall return?'\n",
+  "options": [
+    "Bull Halsey",
+    "George Patton",
+    "Douglas MacArthur",
+    "Omar Bradley"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f561508f"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "In which decade did American involvement in the Korean War take place?\n",
+  "options": [
+    "1970s",
+    "1950s",
+    "1920s",
+    "1960s"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f5615090"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "In which country was the Battle of Hastings in 1066 fought?\n ",
+  "options": [
+    "France",
+    "Russia",
+    "England",
+    "Norway"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f5615091"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "By the king of which country was the Magna Carta published?\n",
+  "options": [
+    "France",
+    "Austria",
+    "Italy",
+    "England"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f5615092"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "The first successful printing press was developed by this man.\n ",
+  "options": [
+    "Johannes Gutenberg",
+    "Benjamin Franklin",
+    "Sir Isaac Newton",
+    "Martin Luther"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f5615093"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "The disease that ravaged and killed a third of Europe's population in the 14th century is known as:\n",
+  "options": [
+    "The White Death",
+    "Plague (Black Death)",
+    "Smallpox",
+    "Malaria"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f5615094"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "Between which two countries was the Hundred Years War fought?\n",
+  "options": [
+    "Italy and Carthage",
+    "England and Germany",
+    "France and England",
+    "Spain and France"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f5615095"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "Which Roman Emperor built a massive wall across Northern Britain in 122 A.D.?\n",
+  "options": [
+    "Marcus Aurelius",
+    "Hadrian",
+    "Nero",
+    "Augustus"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f5615096"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "This man wrote a document known as the 95 Theses.\n ",
+  "options": [
+    "Martin Luther",
+    "Saint Augustus",
+    "Henry David Thoreau",
+    "Voltaire"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f5615097"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "In 1594, William Shakespeare joined the company of this London theatre.\n ",
+  "options": [
+    "Broadway",
+    "Oxford University Theatre",
+    "The Globe",
+    "The London Palladium"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f5615098"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "The Khmer Rouge was a regime ruling this nation in the 20th century.\n ",
+  "options": [
+    "Vietnam",
+    "Laos",
+    "Cambodia",
+    "China"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f5615099"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "What famous 5th century A.D conqueror was known as 'The Scourge of God?'\n ",
+  "options": [
+    "Hannibal",
+    "Julius Caesar",
+    "William the Conqueror",
+    "Attila the Hun"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f561509a"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "What famous rifle is known in America as 'The Gun that Won the West?'\n",
+  "options": [
+    "Henry Repeating Rifle",
+    "Colt Peacemaker",
+    "Winchester Model 1873",
+    "Remington Army Revolver"
+  ]
+},{
+  "_id": {
+    "$oid": "6408344f45fc9c15f561509b"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640814263540faff47c65d09"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:05:49",
+  "question": "Who was the first Western explorer to reach China?\n",
+  "options": [
+    "Magellan",
+    "Cook",
+    "Marco Polo",
+    "Sir Francis Drake"
+  ]
+},{
+  "_id": {
+    "$oid": "640835a145fc9c15f56150a4"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:11:00",
+  "question": "Do you like cold or warm weather more?",
+  "options": [
+    "Cold, but not too much",
+    "Freezing",
+    "Warm!!",
+    "As hot as possible."
+  ]
+},{
+  "_id": {
+    "$oid": "640835a145fc9c15f56150a5"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:11:00",
+  "question": "How much do you enjoy drinking?",
+  "options": [
+    "Not that much",
+    "Just some wine sometimes",
+    "I really enjoy it! especially beer",
+    "Uh, I don't drink."
+  ]
+},{
+  "_id": {
+    "$oid": "640835a145fc9c15f56150a6"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:11:00",
+  "question": "Are you fond of history?",
+  "options": [
+    "No",
+    "A-b-s-o-l-u-t-e-l-y",
+    "I don't like anything.",
+    "Maybe"
+  ]
+},{
+  "_id": {
+    "$oid": "640835a145fc9c15f56150a7"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:11:00",
+  "question": "Would you rather live in/on...",
+  "options": [
+    "A big city",
+    "The middle of nowhere",
+    "A small city surrounded by nature",
+    "An island",
+    "Outer space",
+    "Near the fjords",
+    "By the sea",
+    "In the mountains!!!!",
+    "Nowhere",
+    "Near a lake"
+  ]
+},{
+  "_id": {
+    "$oid": "640835a145fc9c15f56150a8"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:11:00",
+  "question": "What type of music do you like?",
+  "options": [
+    "BLACK METAAAAL!!",
+    "Pop music",
+    "Rock",
+    "Classical music",
+    "Anything I can dance to",
+    "Folk",
+    "Nothing"
+  ]
+},{
+  "_id": {
+    "$oid": "640835a145fc9c15f56150a9"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:11:00",
+  "question": "Which of these adjectives suits you best?",
+  "options": [
+    "Active!",
+    "Good looking",
+    "Well organized",
+    "Social",
+    "Insane",
+    "Funny",
+    "Romantic",
+    "Weird",
+    "Angry",
+    "Antisocial"
+  ]
+},{
+  "_id": {
+    "$oid": "640835a145fc9c15f56150aa"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:11:00",
+  "question": "Do you often party?",
+  "options": [
+    "ALL THE TIME",
+    "Just if I can drink",
+    "Not really",
+    "Yes!! By myself."
+  ]
+},{
+  "_id": {
+    "$oid": "640835a145fc9c15f56150ab"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:11:00",
+  "question": "Would you like to live surrounded by nature??",
+  "options": [
+    "Of course, I would",
+    "Eww",
+    "Yes, but I like cities too.",
+    "As long as I can be far from every form of civilization."
+  ]
+},{
+  "_id": {
+    "$oid": "640835a145fc9c15f56150ac"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:11:00",
+  "question": "Something bad about you:",
+  "options": [
+    "I'm egocentric",
+    "Absolutely nothing",
+    "I hate everyone.",
+    "I don't even know.."
+  ]
+},{
+  "_id": {
+    "$oid": "640835a145fc9c15f56150ad"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:11:00",
+  "question": "How much do you love crowd?",
+  "options": [
+    "Very much",
+    "Somewhat",
+    "A little",
+    "Not at all"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150b1"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "Mexico's capital is___________. ",
+  "options": [
+    "San Juan",
+    "Managua",
+    "Mexico City",
+    "Bogota"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150b2"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "The capital of Guatemala is ______________. ",
+  "options": [
+    "San Salvador",
+    "Guatemala",
+    "Lima",
+    "La Paz & Sucre"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150b3"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "The capital of Hondoras is ____________. ",
+  "options": [
+    "Tegucigatpa",
+    "Panama",
+    "Montevideo",
+    "Buenos Aires"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150b4"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "What is the capital of El Salvador?",
+  "options": [
+    "Santo Domingo",
+    "Caracas",
+    "Asuncion",
+    "San Salvador"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150b5"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "The capital of Nicaragua is ___________. ",
+  "options": [
+    "Quito",
+    "Managua",
+    "Santiago",
+    "Madrid"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150b6"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "What's the capital of Costa Rica?",
+  "options": [
+    "San Jose",
+    "Asuncion",
+    "Managua",
+    "Buenos Aires"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150b7"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "Which of these is the capital of Panama?",
+  "options": [
+    "Montevideo",
+    "San Jose",
+    "Guatemala",
+    "Panama"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150b8"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "The capital of Cuba is _______. ",
+  "options": [
+    "Santo Domingo",
+    "La Habana",
+    "San Salvador",
+    "San Juan"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150b9"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "Republica Dominicana's capital is ____________. ",
+  "options": [
+    "San Salvador",
+    "San Jose",
+    "Santo Domingo",
+    "Santiago"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150ba"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "Name the capital of Puerto Rico. ",
+  "options": [
+    "San Salvador",
+    "San Jose",
+    "Santiago",
+    "San Juan"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150bb"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "\nWhat is the capital of Venezuela?\n",
+  "options": [
+    "Caracas",
+    "Quito",
+    "Asuncion",
+    "Montevideo"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150bc"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "Name the capital of Colombia. ",
+  "options": [
+    "Bogota",
+    "Buenos Aires",
+    "Managua",
+    "Lima"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150bd"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "Identify the capital of Ecuador. ",
+  "options": [
+    "Lima",
+    "Bogota",
+    "Quito",
+    "Caracas"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150be"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "Name the capital of Peru. ",
+  "options": [
+    "Bogota",
+    "Lima",
+    "San Juan",
+    "Santiago"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150bf"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "The capital of Bolivia is _______. ",
+  "options": [
+    "San Jose & San Juan",
+    "Santiago & Santo Domingo",
+    "La Paz & Sucre",
+    "Madrid & Montevideo"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150c0"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "The capital of Chile is _________. ",
+  "options": [
+    "San Salvador",
+    "San Jose",
+    "Santo Domingo",
+    "Santiago"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150c1"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "What is the capital of Paraguay?",
+  "options": [
+    "Mexico City",
+    "Tegucigatpa",
+    "Asuncion",
+    "Montevideo"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150c2"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "What's the capital of Argentina?",
+  "options": [
+    "Buenos Aires",
+    "Bogota",
+    "La Habana",
+    "Lima"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150c3"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "Name the capital of Uruguay. ",
+  "options": [
+    "Santiago",
+    "Madrid",
+    "Managua",
+    "Montevideo"
+  ]
+},{
+  "_id": {
+    "$oid": "640835dd45fc9c15f56150c4"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f56150a0"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:14:15",
+  "question": "Identify the capital of Espana. (Spain)",
+  "options": [
+    "Madrid",
+    "Managua",
+    "Montevideo",
+    "Caracas"
+  ]
+},{
+  "_id": {
+    "$oid": "6408365145fc9c15f56150c8"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:16:09",
+  "question": "What country am I in? I have witnessed Big Ben and Buckingham Palace, and also seen two Princes by the names of William and Harry.",
+  "options": [
+    "Switzerland",
+    "Ireland",
+    "United Kingdom",
+    "United States of America"
+  ]
+},{
+  "_id": {
+    "$oid": "6408365145fc9c15f56150c9"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:16:09",
+  "question": "In this country, individuals consume around a pound of rice on a daily basis and greet one another by asking, \"Have you eaten?\" What country am I in?",
+  "options": [
+    "Japan",
+    "Philippines",
+    "China",
+    "Spain"
+  ]
+},{
+  "_id": {
+    "$oid": "6408365145fc9c15f56150ca"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:16:09",
+  "question": "What country am I in? You can find it on the map with a boot-like shape, and its capital has the nickname ‘The Eternal City’ and also wasn’t built in a day.",
+  "options": [
+    "Italy",
+    "Egypt",
+    "France",
+    "Greece"
+  ]
+},{
+  "_id": {
+    "$oid": "6408365145fc9c15f56150cb"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:16:09",
+  "question": "Quito is its capital. Its official language is Spanish, and it is slightly smaller than Nevada in size. What country am I in?",
+  "options": [
+    "Puru",
+    "Ecuador",
+    "Argentina",
+    "Columbia"
+  ]
+},{
+  "_id": {
+    "$oid": "6408365145fc9c15f56150cc"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:16:09",
+  "question": "I am a small nation in Europe and the first Legoland. Also residing here is a small mermaid. What nation am I?",
+  "options": [
+    "Sweden",
+    "Poland",
+    "Sweden",
+    "Denmark"
+  ]
+},{
+  "_id": {
+    "$oid": "6408365145fc9c15f56150cd"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:16:09",
+  "question": "\"G'day mate!\" is a popular way to greet one another in this country. What country am I in?",
+  "options": [
+    "Austria",
+    "Mexico",
+    "Australia",
+    "Chile"
+  ]
+},{
+  "_id": {
+    "$oid": "6408365145fc9c15f56150ce"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:16:09",
+  "question": "I'm in a mountainous nation where Machu Picchu is often visited. Which country am I in?",
+  "options": [
+    "Ecuador",
+    "Costa Rica",
+    "Peru",
+    "Columbia"
+  ]
+},{
+  "_id": {
+    "$oid": "6408365145fc9c15f56150cf"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:16:09",
+  "question": "What nation am I in? This nation is well-known for its historic buildings, including temples, pyramids, and the Sphinx.",
+  "options": [
+    "Nepal",
+    "Thailand",
+    "Egypt",
+    "Turkey"
+  ]
+},{
+  "_id": {
+    "$oid": "6408365145fc9c15f56150d0"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:16:09",
+  "question": "In which European country was shilling the unit of currency until 2002?",
+  "options": [
+    "Poland",
+    "Russia",
+    "Belgium",
+    "Austria"
+  ]
+},{
+  "_id": {
+    "$oid": "6408365145fc9c15f56150d1"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640834dd45fc9c15f561509f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:16:09",
+  "question": "What is the largest country (by area) that is wholly in Europe?",
+  "options": [
+    "Portugal",
+    "Sweden",
+    "Ukraine",
+    "Norway"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150d9"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Which of the following should be based upon understanding the needs and problems of the students, competence, and interest of the guidance personnel?",
+  "options": [
+    "Guidance tools",
+    "Guidance principles",
+    "Guidance services",
+    "Guidance techniques"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150da"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Which guidance service suggests the importance of maintaining continuous effort of knowing the whereabouts of the graduates and dropouts?",
+  "options": [
+    "Evaluation",
+    "Placement",
+    "Counseling",
+    "Follow-up"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150db"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "When should a teacher and a pupil hold a case conference?",
+  "options": [
+    "Whenever the need arises",
+    "Before the start of the school year",
+    "At the end of the semester",
+    "At the close of the day’s work"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150dc"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Dr. Luke attends to emotionally disturbed students. Which service is being provided by Dr. Luke?",
+  "options": [
+    "Inventory service",
+    "Information service",
+    "Placement service",
+    "Counseling service"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150dd"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Kristina is already in her senior year of high school. After attending their symposium or career choices, Christina is still confused with her career plan, whether to take Teaching or Physical Therapy. How would you assist her?",
+  "options": [
+    "Tell her to choose a course that is closer to her heart.",
+    "Tell her to take an aptitude test to know about her strengths.",
+    "Tell her that you are a model in teaching.",
+    "Talk to her friends."
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150de"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "A living guidance program for social information service. Symposium on Personality Development while for the educational information is _____________________.",
+  "options": [
+    "How to Study Effectively",
+    "Job Fair",
+    "Parenting",
+    "Student’s Profiling of Records"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150df"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Which concerns the regular check-up of the effectiveness of the guidance program?",
+  "options": [
+    "Research and Evaluation",
+    "Follow-up",
+    "Counseling",
+    "Placement"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150e0"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Which aims to make available knowledge or inputs not ordinarily provided through the instructional program or during the regular period of time?",
+  "options": [
+    "Counseling",
+    "Information",
+    "Follow-up",
+    "Placement"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150e1"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Which test should be administered if the teachers/counselor’s purpose is to identify the individual's hidden/inner feelings prejudice, desires and thoughts?",
+  "options": [
+    "Interest inventories",
+    "Aptitude tests",
+    "Projective tests",
+    "Achievement tests"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150e2"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "If counseling service is to gain an understanding of oneself: Follow-up is to __________.",
+  "options": [
+    "Keep in constant touch with former students.",
+    "Indicate what program may be improved.",
+    "Help the students in achieving the particular placement they desire.",
+    "Understand the world of work."
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150e3"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "In a class, there are children who usually get out of the social circle. How do you describe these children?",
+  "options": [
+    "Aggressive type",
+    "Friendly type",
+    "Quarrelsome type",
+    "Shy type"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150e4"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "For the counseling service to be effective, the school administrator should________.\n ",
+  "options": [
+    "Check the facilities of the guidance office.",
+    "Hire a complete counselor.",
+    "Familiarize themselves with the nature, goals, and principles of guidance",
+    "Participate in all guidance activities."
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150e5"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Dianne has the above-average mental ability, but she is poorly motivated in class. That is why she has low grades in her academic performance. Is she?",
+  "options": [
+    "Slow learner",
+    "Superior",
+    "Under-achiever",
+    "Over-achiever"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150e6"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": null,
+  "options": [
+    "Gifted",
+    "Over-achieving",
+    "Under-achieving",
+    "Slow learner"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150e7"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Ms. Burgos found that one of her pupils has a language disorder. What must she do?",
+  "options": [
+    "Force her to talk.",
+    "Encourage her to join other pupils with the same difficulty.",
+    "Laugh at her when she makes mistakes.",
+    "Listen to her attentively and create a group activity where she can participate."
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150e8"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "The responsibility of the counselor is to _____________.",
+  "options": [
+    "Express their view to the counselee.",
+    "Make decisions for the counselee.",
+    "Set up goals for the counselee.",
+    "Following-up with the counselee"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150e9"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "What kind of guidance service do the counselors perform when they schedule job fairing at the school?",
+  "options": [
+    "Career information",
+    "Occupational placement",
+    "Educational placement",
+    "Follow-up"
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150ea"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Which statement about counseling is QUESTIONABLE?",
+  "options": [
+    "Counseling is inherent in a school.",
+    "Counseling is a cooperative endeavor.",
+    "Counseling does not involve the principal and other school personnel.",
+    "Counseling enhances the guidance program, teaching, and supervision."
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150eb"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "Which measure will help a counselor know an individual before the counseling process?",
+  "options": [
+    "Conducting personality test.",
+    "Asking them to write an autobiography.",
+    "Interviewing the individual’s parents and significant others.",
+    "Studying all available records."
+  ]
+},{
+  "_id": {
+    "$oid": "640836e645fc9c15f56150ec"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d4"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:18:30",
+  "question": "What is the ultimate aim of counseling for the individuals to attain?",
+  "options": [
+    "Self-knowledge",
+    "Self-direction",
+    "Self-discovery",
+    "Self-understanding"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150f0"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "158=___ + 106.\nWhat number will come in the blank to make the number sentence correct?",
+  "options": [
+    "52",
+    "152",
+    "158",
+    "264"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150f1"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": null,
+  "options": [
+    "3/5",
+    "2/3",
+    "2/5",
+    "1/3"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150f2"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "Gaurav has 918 marbles. He wants to make packets of marbles, with nine marbles in each pack. How many packs will he be able to make?\n",
+  "options": [
+    "12",
+    "102",
+    "120",
+    "1062"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150f3"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "Which of these lies between 6.3 and 6.6? \n ",
+  "options": [
+    "6.2",
+    "6.9",
+    "6.05",
+    "6.41"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150f4"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "A teacher brought some toffees to her class. After giving three toffees each to 15 students who had completed their assignments, she has 60 toffees left with her. How many toffees did she bring to the class?",
+  "options": [
+    "15",
+    "45",
+    "78",
+    "105"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150f5"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "Which of these numbers have only two factors, one and the number itself?",
+  "options": [
+    "37+1",
+    "37+37",
+    "37X1",
+    "37X37"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150f6"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "Meena divides a number by 2. She then divides the answer by 2. This is the same as dividing the original number by:  \n",
+  "options": [
+    "1",
+    "2",
+    "4",
+    "It cannot be said as the original number is not known."
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150f7"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "John has stamps from different countries. 1/3rd of them are India's stamps. If he has 36 Indian stamps, how many stamps does he have in total?\n",
+  "options": [
+    "12",
+    "36",
+    "48",
+    "108"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150f8"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "1024+1025+___=1025+1025+1025\nWhat number will come in the blank to make the number sentence correct?",
+  "options": [
+    "1024",
+    "1025",
+    "1026",
+    "5124"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150f9"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "Meena has bought six pens. The cost of each pen was between Rs.25 and Rs. 30. Which of these could be the total cost of the pens?\n",
+  "options": [
+    "Rs.55",
+    "Rs.126",
+    "Rs.173",
+    "Rs.330"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150fa"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "Two angles of a triangle measure 35 degrees and 65 degrees. What is the measure of the third angle of the triangle?",
+  "options": [
+    "100 degrees",
+    "80 degrees",
+    "125 degrees",
+    "135 degrees"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150fb"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "The sum of any three angles of a rectangle is:",
+  "options": [
+    "90 degrees",
+    "180 degrees",
+    "270 degrees",
+    "360 degrees"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150fc"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "The ratio of 500ml to 2 liters is:",
+  "options": [
+    "1:4",
+    "1:6",
+    "1:8",
+    "1:10"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150fd"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "Which of the following is true?",
+  "options": [
+    "20 + 0 = 20",
+    "20 - 0 = 0",
+    "20 - 20 - 0 = 20",
+    "20 * 0 = 200"
+  ]
+},{
+  "_id": {
+    "$oid": "6408371b45fc9c15f56150fe"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d5"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:19:40",
+  "question": "The place value of 3 in 1.234:",
+  "options": [
+    "3",
+    "3/10",
+    "3/100",
+    "3/1000"
+  ]
+},{
+  "_id": {
+    "$oid": "6408375145fc9c15f5615102"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d6"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:20:37",
+  "question": "Which type of star is the sun?\n",
+  "options": [
+    "Supernova",
+    "Hypernova",
+    "Red giant",
+    "Red Supergiant"
+  ]
+},{
+  "_id": {
+    "$oid": "6408375145fc9c15f5615103"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d6"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:20:37",
+  "question": "Who invented the telescope?\n",
+  "options": [
+    "Isaac Newton",
+    "Gallelli Galileo",
+    "James Watt",
+    "Roger Bacon"
+  ]
+},{
+  "_id": {
+    "$oid": "6408375145fc9c15f5615104"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d6"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:20:37",
+  "question": "In which ocean is 'Mariana Trench' located?\n",
+  "options": [
+    "Indian ocean",
+    "Atlantic ocean",
+    "Pacific ocean",
+    "Arctic ocean"
+  ]
+},{
+  "_id": {
+    "$oid": "6408375145fc9c15f5615105"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d6"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:20:37",
+  "question": "The sun is the biggest star in the universe.\n",
+  "options": [
+    "True",
+    "False"
+  ]
+},{
+  "_id": {
+    "$oid": "6408375145fc9c15f5615106"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d6"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:20:37",
+  "question": "A stethoscope is used by\n",
+  "options": []
+},{
+  "_id": {
+    "$oid": "6408375145fc9c15f5615107"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d6"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:20:37",
+  "question": "What powers the Earth's water cycle?\n",
+  "options": [
+    "The Moon",
+    "The Sun",
+    "The Ocean",
+    "Earth's rotation"
+  ]
+},{
+  "_id": {
+    "$oid": "6408375145fc9c15f5615108"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d6"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:20:37",
+  "question": "Choose the planets which are considered gaseous:\n",
+  "options": [
+    "Uranus",
+    "Neptune",
+    "Mars",
+    "Jupiter",
+    "Venus"
+  ]
+},{
+  "_id": {
+    "$oid": "6408375145fc9c15f5615109"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d6"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:20:37",
+  "question": "Which is faster in the air?\n ",
+  "options": [
+    "Speed of sound",
+    "Speed of light",
+    "Speed of Cheetah",
+    "None of the above"
+  ]
+},{
+  "_id": {
+    "$oid": "6408375145fc9c15f561510a"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d6"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:20:37",
+  "question": "Fire can not burn without\n",
+  "options": [
+    "Water",
+    "Oxygen",
+    "Ice",
+    "Sun light"
+  ]
+},{
+  "_id": {
+    "$oid": "6408375145fc9c15f561510b"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640836ab45fc9c15f56150d6"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:20:37",
+  "question": "Approx how much time does light take to travel from Sun to Earth?\n",
+  "options": [
+    "20 minutes",
+    "1 hour",
+    "8 minutes and 20 seconds",
+    "3 days"
+  ]
+},{
+  "_id": {
+    "$oid": "640837d745fc9c15f5615113"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:22:36",
+  "question": "\n",
+  "options": [
+    "I will always love my life no matter what.",
+    "I want to be the strongest and powerful person on this planet.",
+    "I want to fulfill my dreams.",
+    "Let's go party, turn up!",
+    "I wish I could come here with my girlfriend.. but I don't have one..",
+    "Do everything until I can't.",
+    "I always want to follow my passion."
+  ]
+},{
+  "_id": {
+    "$oid": "640837d745fc9c15f5615114"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:22:36",
+  "question": null,
+  "options": [
+    "Shoes",
+    "Computers",
+    "Snapback",
+    "Puppies",
+    "Camera",
+    "Action figures",
+    "Books"
+  ]
+},{
+  "_id": {
+    "$oid": "640837d745fc9c15f5615115"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:22:36",
+  "question": "\n",
+  "options": [
+    "Crazy",
+    "Small",
+    "Lazy",
+    "Motherly",
+    "Clumsy",
+    "Bright",
+    "I like to tease your friends."
+  ]
+},{
+  "_id": {
+    "$oid": "640837d745fc9c15f5615116"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:22:36",
+  "question": "Which is one habit that you catch yourself doing a lot?\n",
+  "options": [
+    "Sticking my tongue out",
+    "Tilting my head",
+    "Hitting people out of love",
+    "Covering my face while laughing",
+    "Winking at people",
+    "Sleeping with my hands between my legs",
+    "Touching my neck while talking"
+  ]
+},{
+  "_id": {
+    "$oid": "640837d745fc9c15f5615117"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:22:36",
+  "question": "\n",
+  "options": [
+    "Surfing the internet",
+    "Cooking",
+    "Nothing",
+    "Listening to music",
+    "Relaxing",
+    "Looking for new music",
+    "Drawing"
+  ]
+},{
+  "_id": {
+    "$oid": "640837d745fc9c15f5615118"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:22:36",
+  "question": null,
+  "options": [
+    "Jungkook",
+    "Taehyung",
+    "Jimin",
+    "J-Hope",
+    "Suga",
+    "Jin",
+    "Rap Monster"
+  ]
+},{
+  "_id": {
+    "$oid": "640837d745fc9c15f5615119"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:22:36",
+  "question": null,
+  "options": [
+    "Cat",
+    "Dog",
+    "Dolphin",
+    "Lion",
+    "Brachiosaurus",
+    "I don’t have a favorite animal.",
+    "Alpaca"
+  ]
+},{
+  "_id": {
+    "$oid": "640837d745fc9c15f561511a"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:22:36",
+  "question": "\n",
+  "options": [
+    "I stay out of it.",
+    "Try to come up with a solution",
+    "Try to resolve their fight",
+    "I am the one who initiates the fight.",
+    "Make them sit and talk",
+    "Try to lighten the situation",
+    "Will not leave until argument I resolve everything"
+  ]
+},{
+  "_id": {
+    "$oid": "640837d745fc9c15f561511b"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:22:36",
+  "question": "What's your favorite color?\n",
+  "options": [
+    "Black",
+    "Blue",
+    "White",
+    "Green",
+    "A combo of blue and black.",
+    "Grey",
+    "Black"
+  ]
+},{
+  "_id": {
+    "$oid": "640837d745fc9c15f561511c"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510e"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:22:36",
+  "question": "\n",
+  "options": [
+    "August",
+    "VKOOK",
+    "YoonMin",
+    "Jikook",
+    "SeoJim",
+    "JONY",
+    "Taegi"
+  ]
+},{
+  "_id": {
+    "$oid": "6408381345fc9c15f5615120"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:23:50",
+  "question": "When do you usually listen to music?",
+  "options": [
+    "Whenever I want to escape the pressures of my daily life",
+    "Whenever I am in a more intellectual or creative mood",
+    "Whenever it's time to party",
+    "Whenever I am alone and want to relax",
+    "Whenever I'm in a good mood, which I usually am",
+    "Whenever I need some excitement or have had a bad day",
+    "All the time"
+  ]
+},{
+  "_id": {
+    "$oid": "6408381345fc9c15f5615121"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:23:50",
+  "question": "If you could purchase one instrument, what would it be?",
+  "options": [
+    "Something that you see in an orchestra.",
+    "A laptop",
+    "A guitar or drum set",
+    "Probably a piano or keyboard",
+    "That instrument that mesmerized me so much in my favorite song",
+    "I prefer to just listen to the music, not play it.",
+    "Anything I could get my hands on, and a bicycle"
+  ]
+},{
+  "_id": {
+    "$oid": "6408381345fc9c15f5615122"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:23:50",
+  "question": "When you first heard your favorite song, you:",
+  "options": [
+    "Cried...",
+    "Tried to play it with my band afterward or kept banging my head throughout the whole thing",
+    "Had a hard time hearing it above all my friends talking",
+    "Was taken away from my busy life by the interesting and haunting sounds",
+    "Had one of the best days of my life",
+    "Thought that the artist was an understated genius",
+    "Felt like I had a better understanding of music and culture"
+  ]
+},{
+  "_id": {
+    "$oid": "6408381345fc9c15f5615123"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:23:50",
+  "question": "Your favorite lyrics describe:",
+  "options": [
+    "Something mundane in a poetic way or something beautiful like the wonders of space",
+    "Having a good time, I think. I really just focus more on the beat.",
+    "Social injustice or some strong emotion",
+    "Something that has meaning for my life",
+    "Something that celebrates life in general",
+    "I like some songs that include lyrics, but my songs don't need lyrics to be great.",
+    "My favorite songs don't have lyrics, or they're what some would consider cliche."
+  ]
+},{
+  "_id": {
+    "$oid": "6408381345fc9c15f5615124"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:23:50",
+  "question": "What would be the ultimate concert experience?",
+  "options": [
+    "Going crazy with the crowd and screaming so loudly that we can't hear the performer",
+    "Watching the performer play something touching on the piano",
+    "Singing my favorites at the top of my lungs with all my friends",
+    "Extended solos and a lot of head-banging and jumping around in the pit",
+    "Getting lost in the sound with thousands of others",
+    "Loads of spontaneous playing and messing around with whatever's on stage",
+    "The only concerts I go to usually don't have a vocalist."
+  ]
+},{
+  "_id": {
+    "$oid": "6408381345fc9c15f5615125"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:23:50",
+  "question": "How long do you like your songs to be?",
+  "options": [
+    "Something over four minutes",
+    "Usually, extremely short doesn't get the emotion across well enough",
+    "I like longer songs, although a shorter song with a good enough sound will also do.",
+    "Long songs only, please",
+    "Very short songs and very long songs each have good qualities, but I don't like ones of medium length too much.",
+    "The length of a normal song",
+    "With vocals, short; without vocals, long"
+  ]
+},{
+  "_id": {
+    "$oid": "6408381345fc9c15f5615126"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:23:50",
+  "question": "Which Beatles song do you think sounds the best?",
+  "options": [
+    "Yesterday",
+    "Hey, Jude",
+    "Twist and Shout",
+    "Helter Skelter",
+    "Tomorrow Never Knows",
+    "Revolution 9",
+    "I have never and never will care for the Beatles' style of music."
+  ]
+},{
+  "_id": {
+    "$oid": "6408381345fc9c15f5615127"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:23:50",
+  "question": "How important are the lyrics to you?",
+  "options": [
+    "Not important, but only because I focus more on the high energy of the song.",
+    "Little to no importance",
+    "It all depends, but music is always important.",
+    "They don't even have to make sense because the music is pretty much all that matters.",
+    "If the music is cool enough, I care less about the lyrics and vice-versa.",
+    "The lyrics are the main thing. Add some good vocals, and you've got a perfect song.",
+    "The lyrics are everything. Nothing else is really important."
+  ]
+},{
+  "_id": {
+    "$oid": "6408381345fc9c15f5615128"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:23:50",
+  "question": "Who do you enjoy the music with?",
+  "options": [
+    "Anyone I can fit into my living room",
+    "At times no one, and at other times, with a few friends",
+    "No one or a close friend",
+    "Usually, no one, although sometimes I let my music play throughout the house.",
+    "No one, usually with earbuds in my ears",
+    "Everyone who comes into my house or vehicle; I like to play my tunes over speakers.",
+    "Either no one or with someone else who understands my music like I do."
+  ]
+},{
+  "_id": {
+    "$oid": "6408381345fc9c15f5615129"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f561510f"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:23:50",
+  "question": "How creative do you consider yourself to be?",
+  "options": [
+    "I'd rather enjoy what others have created.",
+    "I'm good with technology but not much beyond that.",
+    "I play in a band and I sometimes write.",
+    "I enjoy writing but only play music for fun.",
+    "I love to write and/or can play at least one instrument well.",
+    "I'm a very creative person who is open to new ideas about art.",
+    "I'm know a lot about music and other forms of art but may or may not excel at them myself."
+  ]
+},{
+  "_id": {
+    "$oid": "6408383f45fc9c15f561512d"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f5615110"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:24:36",
+  "question": "How do you like your music?",
+  "options": [
+    "Light",
+    "Fast",
+    "Loud, fast, and passionate",
+    "Smooth and beautiful"
+  ]
+},{
+  "_id": {
+    "$oid": "6408383f45fc9c15f561512e"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f5615110"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:24:36",
+  "question": "Can you listen to your favorite songs on the radio?",
+  "options": [
+    "Yes! All the time",
+    "Yes, sometimes",
+    "No, not usually",
+    "Never!"
+  ]
+},{
+  "_id": {
+    "$oid": "6408383f45fc9c15f561512f"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f5615110"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:24:36",
+  "question": "Is the music you usually listen to, is sad?",
+  "options": [
+    "Mainly realistic, which is usually sad.",
+    "Yes!",
+    "No!",
+    "I listen to rap only."
+  ]
+},{
+  "_id": {
+    "$oid": "6408383f45fc9c15f5615130"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f5615110"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:24:36",
+  "question": "Is your music usually loud or soft?",
+  "options": [
+    "So loud that I can't hear myself scream",
+    "Very loud",
+    "Quiet...",
+    "I prefer both."
+  ]
+},{
+  "_id": {
+    "$oid": "6408383f45fc9c15f5615131"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f5615110"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:24:36",
+  "question": "When you listen to the singer of some of your favorite songs, what does she/he sound like?",
+  "options": [
+    "Their voice is very smooth, the words kind of run over each other, and the singing is somewhat soft.",
+    "The words run into each other, and the singing is fast, so you can hardly understand the lyrics.",
+    "The voice is soft and smooth.",
+    "Loud and passionate."
+  ]
+},{
+  "_id": {
+    "$oid": "6408383f45fc9c15f5615132"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f5615110"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:24:36",
+  "question": "Do you prefer the lyrics of your music to be smooth or clear?",
+  "options": [
+    "Smooth",
+    "Clear",
+    "I prefer both things.",
+    "I just listen to songs."
+  ]
+},{
+  "_id": {
+    "$oid": "6408383f45fc9c15f5615133"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f5615110"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:24:36",
+  "question": "When people see your iPod or listen to your favorite song, they say that:",
+  "options": [
+    "I should move to Kansas or Kentucky.",
+    "\"What were the lyrics? I couldn't understand them.\"",
+    "\"I have never heard that song before... it's kinda slow...\"",
+    "That was loud."
+  ]
+},{
+  "_id": {
+    "$oid": "6408383f45fc9c15f5615134"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f5615110"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:24:36",
+  "question": "Choose your favorite animal: ",
+  "options": [
+    "Cow",
+    "Horse",
+    "Cheetah, jaguar, or tiger",
+    "Wolf"
+  ]
+},{
+  "_id": {
+    "$oid": "6408383f45fc9c15f5615135"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f5615110"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:24:36",
+  "question": "Who do you like the most?",
+  "options": [
+    "Your Favorite Martian, Weird Al Y., or Rucka Rucka Ali.",
+    "Slipknot",
+    "Kayne west, M&M, or Wacka Flocka.",
+    "Taylor Swift"
+  ]
+},{
+  "_id": {
+    "$oid": "6408383f45fc9c15f5615136"
+  },
+  "type": "multiple-choice",
+  "quiz": {
+    "$oid": "640837a445fc9c15f5615110"
+  },
+  "answer": "C",
+  "createdAt": "2023-03-08 14:24:36",
+  "question": "Pick your favorite song of these:",
+  "options": [
+    "Club Villain (Your Favorite Martian)",
+    "Never too late (3 Days Grace)",
+    "Fearless (Taylor Swift)",
+    "Blame Game (Kanye)"
+  ]
+},{
+  "_id": {
+    "$oid": "640d7d6082c4c0648bc71740"
+  },
+  "question": "Spring",
+  "type": "multiple-choice",
+  "options": [
+    "Dit Dit Dit Dit Dit Dit Dit "
+  ],
+  "answer": "Dit Dit Dit Dit Dit Dit Dit ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678605581715"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640d7dfe989c6080e71b4820"
+  },
+  "question": "Term",
+  "type": "multiple-choice",
+  "options": [
+    "Dit"
+  ],
+  "answer": "Dit",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678605781802"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640d84ea9c3a04b505074dd8"
+  },
+  "question": "Term",
+  "type": "multiple-choice",
+  "options": [
+    "Dit"
+  ],
+  "answer": "Dit",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678605871610"
+    }
+  }
+}]

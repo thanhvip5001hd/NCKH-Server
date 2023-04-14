@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "64080fe4a7afbbc02086c5cc"
+  },
+  "name": "Nem"
+},{
+  "_id": {
+    "$oid": "6408a62db7dd21613bf4ddb6"
+  },
+  "name": "Parks Jack",
+  "email": "zeropark1234@gmail.com",
+  "avatarUrl": "https://lh3.googleusercontent.com/a/AGNmyxYN4bugD6aHbr_y3Tc26MvFOVqLr1tiJa_eo6h6=s96-c",
+  "role": "user",
+  "typeAccount": "google",
+  "active": true,
+  "friends": [],
+  "rooms": [],
+  "__v": 0
+}]

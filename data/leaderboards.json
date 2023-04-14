@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6409f7046872b2e7a1060e1c"
+  },
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "user": {
+    "$oid": "64080fe4a7afbbc02086c5cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678374656871"
+    }
+  },
+  "maxScore": 11,
+  "recentScore": 9
+},{
+  "_id": {
+    "$oid": "6409f83b08cc337c373e1d67"
+  },
+  "quiz": {
+    "$oid": "640814263540faff47c65d06"
+  },
+  "user": {
+    "$oid": "64080fe4a7afbbc02086c5cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678374656871"
+    }
+  },
+  "maxScore": 1,
+  "recentScore": 9
+},{
+  "_id": {
+    "$oid": "6409fa896872b2e7a106117b"
+  },
+  "quiz": {
+    "$oid": "640814263540faff47c65d07"
+  },
+  "user": {
+    "$oid": "64080fe4a7afbbc02086c5cc"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678375514935"
+    }
+  },
+  "maxScore": 10,
+  "recentScore": 10
+}]

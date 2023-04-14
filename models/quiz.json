@@ -1,0 +1,12 @@
+{
+  "name": "multiple-choice",
+  "questions": [],
+  "user": {
+    "$oid": "62d26d2db34564b149cd3f9a"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657957617613"
+    }
+  }
+}

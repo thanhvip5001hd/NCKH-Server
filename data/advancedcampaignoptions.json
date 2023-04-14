@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "62d26d2db34564b149cd3f9a"
+  },
+  "__v": 0,
+  "calculatingText": "Calculating time",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657957617613"
+    }
+  },
+  "expiredText": "No more time",
+  "fundedText": "funded",
+  "hideWhenExpires": false,
+  "hideWhenFullyFunded": false,
+  "hourAbbreviationText": "h",
+  "minuteAbbreviationText": "m",
+  "pluralDayText": "days",
+  "pluralMonthText": "months",
+  "pluralYearText": "years",
+  "preSaleWidgetText": "This product will only be produced if at least $goal$ units are supported by $end_time$ ($timezone$)",
+  "progressBarColor": "#502222ec1",
+  "raisedText": "raised of $goal$ goal",
+  "remainingText": "remaining",
+  "replaceATCTextWhenActive": false,
+  "secondAbbreviationText": "s",
+  "singularDayText": "day",
+  "singularMonthText": "month",
+  "supportedText": "sold of $goal$",
+  "tags": []
+},{
+  "_id": {
+    "$oid": "62d26d4ea8b6d64beb41bf29"
+  },
+  "__v": 0,
+  "calculatingText": "Calculating time",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657957706048"
+    }
+  },
+  "expiredText": "No more time",
+  "fundedText": "funded",
+  "hideWhenExpires": false,
+  "hideWhenFullyFunded": false,
+  "hourAbbreviationText": "h",
+  "minuteAbbreviationText": "m",
+  "pluralDayText": "days",
+  "pluralMonthText": "months",
+  "pluralYearText": "years",
+  "preSaleWidgetText": "This product will only be produced if at least $goal$ units are supported by $end_time$ ($timezone$)",
+  "progressBarColor": "#502222ec1",
+  "raisedText": "raised of $goal$ goal",
+  "remainingText": "remaining",
+  "replaceATCTextWhenActive": false,
+  "secondAbbreviationText": "s",
+  "singularDayText": "day",
+  "singularMonthText": "month",
+  "supportedText": "sold of $goal$",
+  "tags": []
+},{
+  "_id": {
+    "$oid": "62d2734aa5edb1b6cdbe61bc"
+  },
+  "__v": 0,
+  "calculatingText": "Calculating time",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657959198414"
+    }
+  },
+  "expiredText": "No more time",
+  "fundedText": "funded",
+  "hideWhenExpires": false,
+  "hideWhenFullyFunded": false,
+  "hourAbbreviationText": "h",
+  "minuteAbbreviationText": "m",
+  "pluralDayText": "days",
+  "pluralMonthText": "months",
+  "pluralYearText": "years",
+  "preSaleWidgetText": "This product will only be produced if at least $goal$ units are supported by $end_time$ ($timezone$)",
+  "progressBarColor": "#502222ec1",
+  "raisedText": "raised of $goal$ goal",
+  "remainingText": "remaining",
+  "replaceATCTextWhenActive": false,
+  "secondAbbreviationText": "s",
+  "singularDayText": "day",
+  "singularMonthText": "month",
+  "supportedText": "sold of $goal$",
+  "tags": []
+},{
+  "_id": {
+    "$oid": "62d292a6fb064c08d58555d4"
+  },
+  "__v": 0,
+  "calculatingText": "Calculating time",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657967043053"
+    }
+  },
+  "expiredText": "No more time",
+  "fundedText": "funded",
+  "hideWhenExpires": false,
+  "hideWhenFullyFunded": false,
+  "hourAbbreviationText": "h",
+  "minuteAbbreviationText": "m",
+  "pluralDayText": "days",
+  "pluralMonthText": "months",
+  "pluralYearText": "years",
+  "preSaleWidgetText": "This product will only be produced if at least $goal$ units are supported by $end_time$ ($timezone$)",
+  "progressBarColor": "#502222ec1",
+  "raisedText": "raised of $goal$ goal",
+  "remainingText": "remaining",
+  "replaceATCTextWhenActive": false,
+  "secondAbbreviationText": "s",
+  "singularDayText": "day",
+  "singularMonthText": "month",
+  "supportedText": "sold of $goal$",
+  "tags": []
+}]
